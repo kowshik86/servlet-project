@@ -1,0 +1,11 @@
+<web-app>
+<servlet>
+	<servlet-name>DBConnection</servlet-name>
+	<servlet-class>DBConnection</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	<servlet-name>DBConnection</servlet-name>
+	<url-pattern>/DBConnection</url-pattern>
+	</servlet-mapping>
+</web-app>
+
